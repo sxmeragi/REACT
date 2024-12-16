@@ -1,0 +1,26 @@
+.container {
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.Post {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  min-height: 200px;
+  max-height: 800px;
+}
+.PostContent {
+  display: flex;
+  flex-direction: column;
+  max-width: 800px;
+}
+.PostFooter {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 205px;
+  max-height: 80px;
+}
