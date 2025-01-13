@@ -1,0 +1,11 @@
+.Avatar {
+  display: flex;
+  flex-direction: column;
+  height: 250px;
+  justify-content: space-between;
+}
+.ProfileText {
+  max-width: 200px;
+  display: flex;
+  flex-direction: column;
+}
